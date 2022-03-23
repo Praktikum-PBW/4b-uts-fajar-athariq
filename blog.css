@@ -1,0 +1,8 @@
+body{
+	background-color: #F2E3D5;
+}
+.jumbotron{
+	color: white;
+	background-image: url(wallpaper1.jpg);
+	background-size: cover;
+}

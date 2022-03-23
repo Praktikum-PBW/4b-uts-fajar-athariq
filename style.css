@@ -1,0 +1,50 @@
+body{
+	background-color: #F2E3D5;
+}
+.jumbotron{
+	text-align: center;
+	height: 500px;
+	background-image: url(Trofi\ Champions\ League.png);
+	background-size: 950px center;
+}
+.jumbotron .display-4{
+	color: white;
+}  
+.jumbotron .lead {
+	color: white;
+}
+.jumbotron p {
+	color: white;
+}
+.card {
+	width: 100%;
+	height: auto;
+	grid-column: span 8;
+	margin: 10px 0;
+	border-radius: 15px;
+	position: relative;
+	box-shadow: 0 10px 10px rgba(0,0,0,.1);
+  
+  }
+  
+  .head-card img {
+	width: 200px;
+	object-fit: cover;
+  }
+  
+  .body-card {
+	padding: 10px 15px;
+  }
+  
+  .body-card h1 {
+	margin: 0;  
+  
+  }
+  
+  .body-card svg {
+	width: 31px;
+	position: absolute;
+	bottom: 7px;
+	right: 20px;
+  }
+  
